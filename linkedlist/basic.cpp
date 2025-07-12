@@ -117,5 +117,5 @@ int main() {
 
 
 /*
-it is the basic of singly linked list where i learncreation and insertiom and deletionof linked list
+it is the basic of singly linked list where i learn creation and insertiom and deletionof linked list
 */
