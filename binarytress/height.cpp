@@ -25,7 +25,7 @@ public:
     }
 };
 
-/* in this problem we need to ccalculate the height of thr tree 
+/* in this problem we need to calculate the height of thr tree 
   Approach: we will calculate thr left height of the tree and  we will calculate right height 
   of the the tree 
   we will take max of both and add 1 to it
